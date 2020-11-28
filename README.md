@@ -5,8 +5,8 @@ So you dont need to work on unnecessary words. <br />
 There are two different languages(English and Spanish)in app but if you want to learn another words from other languages just dont care the header. <br />
 Press shift to show word. <br />
 Press enter/return to send answer. <br />
-Put your foreign language words to kelimelisteng.txt or kelimelistspa.txt <br />
-And put your words's meaning to anlamlisteng.txt or anlamlistspa.txt <br />
+Put your foreign language words to kelimelisteng.txt(Eng) or kelimelistspa.txt(Spa) <br />
+And put your words's meaning to anlamlisteng.txt(Eng) or anlamlistspa.txt(Spa) <br />
 Show Attention to Order. For example: <br />
 Pencil(index0-English)-Kalem(index0-Turkish). <br />
 
